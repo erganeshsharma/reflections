@@ -28,5 +28,8 @@ Commands like "git log --graph --oneline branch_name1 branch_name2 ....." list a
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Logs from both branches are merged into the current branch. Displaying it
+in the diagram help us to analyse what are the commits that got merged into the final merged current branch.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
