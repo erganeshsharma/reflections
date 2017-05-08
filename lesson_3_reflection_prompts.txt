@@ -1,3 +1,10 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
-Keeping remote repository is handy when you are collaborating with someone remotely and both of you are working on same repository.
+Keeping remote repository is handy when you are collaborating with someone
+ remotely and both of you are working on same repository.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+For better control, as we keep on experimenting and developing so we don't want to push or pull everything. Once we satisfied that the code is working properly, only then its better to pull.
+
+
+
