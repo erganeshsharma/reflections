@@ -23,6 +23,8 @@ So it is very helpful to work on large code base.
 
 How do the diagrams help you visualize the branch structure?
 
+Commands like "git log --graph --oneline branch_name1 branch_name2 ....." list all the logs in respective brances. So it helps in identifying the logs in each branches.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
