@@ -18,6 +18,9 @@ So, after changing the existing file or creating a new file, add those files to 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches are helpful when you want to work on the code without disturbing the master branch. Or to try some experimental work on the code, without disturbing it by creating a new experimental branch. So to add some features into the working software. Once your branch code seems to be working fine, we can merge them to the master branch.
+So it is very helpful to work on large code base.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
