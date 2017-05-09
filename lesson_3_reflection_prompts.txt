@@ -17,3 +17,15 @@ Once done, we can merge the newly created branch to reflects the changes made in
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It helps us to combine conflicting changes from multiple people.
 We can manually correct the conflict and then merge the branches.
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+Without Git or GitHub, we need to share each and every changes we made with every collaborator for approval.
+It would have been very difficult to track the approval and changes required.
+Git and GitHub make it easy for collaborators to be on same page and
+monitor the changes and merge or pull request.
+Reviewing is very easy with Git and GitHub.
+Keeping older version of code is also very easy.
+Collaborators can revert back to older version any time.
+
