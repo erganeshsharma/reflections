@@ -6,5 +6,10 @@ Keeping remote repository is handy when you are collaborating with someone
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 For better control, as we keep on experimenting and developing so we don't want to push or pull everything. Once we satisfied that the code is working properly, only then its better to pull.
 
+Describes the differences between forks, clones, and branches.
+When would you use one instead of another?
 
-
+Forking is cloning/coppying others repository on github onto your own git hub repositories.
+Clonning is downloading the repository from github to your local machine.
+New Branch is created to experiment or develop new features without disturbing the stable master branch.
+Once done, we can merge the newly created branch to reflects the changes made into the code.
