@@ -13,3 +13,7 @@ Forking is cloning/coppying others repository on github onto your own git hub re
 Clonning is downloading the repository from github to your local machine.
 New Branch is created to experiment or develop new features without disturbing the stable master branch.
 Once done, we can merge the newly created branch to reflects the changes made into the code.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps us to combine conflicting changes from multiple people.
+We can manually correct the conflict and then merge the branches.
