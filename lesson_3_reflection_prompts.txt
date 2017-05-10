@@ -29,3 +29,16 @@ Reviewing is very easy with Git and GitHub.
 Keeping older version of code is also very easy.
 Collaborators can revert back to older version any time.
 
+When would you want to make chnages in a seperate branch rather than directly in master?
+What benefits does each approach have?
+
+When I am experimenting or developing new features, its better to create a new branch
+for this, and then apply the changes and work on it.
+And once its done try to merge it using pull request.
+Your pull request will be reviewed by other collaborators.
+And once approved your branch will be merged.
+So you can pull the all new updated master branch from github to your local machine
+for further development.
+Its very handy, it doesn't break your stable master branch as you are experimenting in your own branch.
+
+
